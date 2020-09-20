@@ -8,3 +8,6 @@
 # a = torch.zeros(5, 3,dtype=torch.long)
 # a = a.new_ones(5,3,dtype=torch.double)
 # print(a)
+
+
+#你是不是一个大傻子
